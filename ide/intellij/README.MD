@@ -1,4 +1,4 @@
-# Intellij Shortcuts  
+#Intellij Shortcuts  
   
 https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf
   
@@ -21,11 +21,11 @@ ctrl + alt + i indent
 ctrl + alt + o   
   
 # Navigating
-
-shift + shift search everywhere 
-ctrl + N search classes
-
-
+  
+shift + shift search everywhere  
+ctrl + N search classes  
+  
+  
 # Template
 
 
